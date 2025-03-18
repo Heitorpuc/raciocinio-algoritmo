@@ -1,0 +1,5 @@
+ano = int(input('digite seu ano de nascimento:'))
+
+idade = 2022 - ano
+
+print('sua idade é:', idade, 'anos')
