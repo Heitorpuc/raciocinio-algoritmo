@@ -1,0 +1,4 @@
+salario_minimo = int(input('digite seu salario:'))
+formula = salario_minimo / 1518
+
+print('voce recebe:', formula, 'salarios minimos')
