@@ -1,0 +1,3 @@
+d = float(input("Distância (km): "))
+c = float(input("Combustível (L): "))
+print(f"Consumo médio: {d/c: 2f} km/l" if c > 0 else "Error: Combustível inválido")
