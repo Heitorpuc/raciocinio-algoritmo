@@ -1,7 +1,0 @@
-media = int(input('insira sua media:')
-if: media < 7.0 
- print ( "reprovado")
-
-else: 
-   print("reprovado")
-
