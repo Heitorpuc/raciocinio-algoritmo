@@ -1,0 +1,10 @@
+import math
+
+# Entrada
+h, r = float(input()), float(input())
+
+# Cálculos
+latas = math.ceil(2 * math.pi * r * (r + h) / 15)
+
+# Resultado
+print(f"{latas}\n{latas * 50:.2f}")
