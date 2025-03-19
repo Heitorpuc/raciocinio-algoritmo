@@ -1,1 +1,11 @@
 
+valor = float(input("Digite o valor do produto: "))
+
+if valor > 0:
+    avista = valor * 0.95
+    parcela_2x = valor 
+    parcela_3x = (valor * 1.05) 
+
+    print("À vista:", round(avista, 2)
+    print("2x de", round(parcela_2x, 2)
+    print("3x de", round(parcela_3x, 2), "Total:", round(parcela_3x * 3, 2)
